@@ -18,6 +18,7 @@ Eu sou um desenvolvedor iniciante, porém ambicioso e com muita vontade de apren
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ronnygst.github.io/Web_portifolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonnyGST)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ronny-gustavo-santos-teixeira-a070912a9/)
 
 
 
