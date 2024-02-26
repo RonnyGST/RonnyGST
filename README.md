@@ -1,9 +1,10 @@
 
-# Olá, eu sou o Ronny! 👋
+# HI! I'm Ronny! 👋
 
 
-## 🚀 Sobre mim
-Eu sou um desenvolvedor iniciante, porém ambicioso e com muita vontade de aprender! Minha história com o mundo da programação não é muito empolgante ou impressionante, mas um dia farei coisas que irá me destacar dos demais com projetos incríveis!
+## 🚀 About me
+
+I'm a beginner developer, but ambitious and eager to learn! My history with the world of programming is not very exciting or impressive, but one day I will do things that will make me stand out from the rest with incredible projects!
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGST&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -22,18 +23,35 @@ Eu sou um desenvolvedor iniciante, porém ambicioso e com muita vontade de apren
 
 
 
-## 🛠 Habilidades
+## 🛠 Tech Stack
+
+### 👨🏻‍💻 Back-End
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🎨 Front-End
+
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+## 🕹️ Game Developer
+
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+### 💼 Other Technologies
+
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 
 
 
@@ -44,17 +62,14 @@ Eu sou um desenvolvedor iniciante, porém ambicioso e com muita vontade de apren
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-# Projeto recente de um jogo feito com JavaScript
-
-Recentemente eu fiz um mini game com JavaScript. A ideia para isso veio de um desafio da DIO, mas neste caso o desafio pedia algo simples. Porém, como tive liberdade de poder deixar este projeto mais interessante, eu adicionei mais coisas e isso se transformou em um jogo!
-
-## Demonstração
-
-https://ronnygst.github.io/Mini-game-JavaScript/
 
 
-## Stack utilizada
+## :star: My Best Repositories 
 
-**Front-end:** HTML, CSS
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-blog.git) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-quiz.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Mini-game-JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Mini-game-JavaScript.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Web_portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Web_portifolio.git)
 
-**Back-end:** JavaScript
+
+
