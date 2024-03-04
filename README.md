@@ -1,8 +1,8 @@
 
-# HI! I'm Ronny! 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;My+name's+Ronny;welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 ## 🚀 About me
+
 
 I'm a beginner developer, but ambitious and eager to learn! My history with the world of programming is not very exciting or impressive, but one day I will do things that will make me stand out from the rest with incredible projects!
 
@@ -69,7 +69,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-blog.git) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-quiz.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Mini-game-JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Mini-game-JavaScript.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Web_portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Web_portifolio.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Pokedex.git)
 
 
 
