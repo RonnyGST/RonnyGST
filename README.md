@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;My+name's+Ronny;welcome+to+my+profile+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;My+name's+Ronny;Welcome+to+my+profile+:%29)](https://git.io/typing-svg)
 
 ## 🚀 About me
 
@@ -10,7 +10,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGST&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RonnyGST&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGST&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RonnyGST&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
@@ -44,6 +44,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 ## 🕹️ Game Developer
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ### 💼 Other Technologies
