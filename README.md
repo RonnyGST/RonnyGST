@@ -30,7 +30,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 ### 👨🏻‍💻 Back-End
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎨 Front-End
@@ -53,7 +53,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
 
@@ -72,7 +72,7 @@ I'm a beginner developer, but ambitious and eager to learn! My history with the 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-blog.git) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=angular-quiz&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/angular-quiz.git)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Mini-game-JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Mini-game-JavaScript.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=cpp-hangman-game-two&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/cpp-hangman-game-two.git)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RonnyGST&repo=Pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RonnyGST/Pokedex.git)
 
 
