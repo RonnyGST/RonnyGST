@@ -7,10 +7,16 @@
 I'm a beginner developer, but ambitious and eager to learn! My history with the world of programming is not very exciting or impressive, but one day I will do things that will make me stand out from the rest with incredible projects!
 
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyGST&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyGST&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RonnyGST&hide=html&layout=compact&theme=highcontrast)](https://github.com/Pranesh-2005/github-readme-stats-fast)   
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RonnyGST&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
